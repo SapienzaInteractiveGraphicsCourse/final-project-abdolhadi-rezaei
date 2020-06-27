@@ -13,3 +13,6 @@ messages in different situation.
 
 # The link of the project : 
 https://sapienzainteractivegraphicscourse.github.io/final-project-abdolhadi-rezaei/
+# User manual :
+First you have to click on player1 , then you have to put a name , after that you have to click on continue.
+You can also control the speed of the ball, if your speed is high you get 2 more scores.
