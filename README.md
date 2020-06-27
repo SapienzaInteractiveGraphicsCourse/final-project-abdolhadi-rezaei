@@ -16,3 +16,6 @@ https://sapienzainteractivegraphicscourse.github.io/final-project-abdolhadi-reza
 # User manual :
 First you have to click on player1 , then you have to put a name , after that you have to click on continue.
 You can also control the speed of the ball, if your speed is high you get 2 more scores.
+
+# For any question you can have a contact with me
+rezaei.abdolhadi@gmail.com
